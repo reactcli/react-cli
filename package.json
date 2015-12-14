@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/CrshOverride/react-cli/issues"
   },
-  "homepage": "https://github.com/CrshOverride/react-cli#readme"
+  "homepage": "https://github.com/CrshOverride/react-cli#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "glob": "^6.0.1",
+    "minimalist": "^1.0.0",
+    "rsvp": "^3.1.0",
+    "string": "^3.3.1"
+  }
 }

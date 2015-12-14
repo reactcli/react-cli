@@ -1,0 +1,15 @@
+{
+  "name": "<%= name %>",
+  "version": "0.0.0",
+  "description": "Description of <%= name %>",
+  "scripts": {
+    "build": "react build",
+    "start": "react server",
+    "test": "react test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^0.14.3"
+  }
+}

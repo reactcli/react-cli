@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A Command Line Interface for working with React Applications",
   "main": "index.js",
+  "bin": {
+    "react": "./bin/react.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

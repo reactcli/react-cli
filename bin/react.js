@@ -1,8 +1,24 @@
 #! /usr/bin/env node --harmony
 'use strict';
 
-var cli = require('../lib/cli');
+let cli         = require('../lib/cli'),
+    resolve     = require('resolve'),
+    exit        = require('exit');
 
-cli();
+process.title = 'react';
 
-console.log("React CLI says 'Hello World!'");
+resolve('react-cli', {
+    basedir: process.cwd()
+}, (error, localCli) => {
+    let cli;
+
+    if (error) {
+        cli = require('../lib/cli');
+    } else {
+        cli = require(localCli);
+    }
+});
+
+cli({
+    args: process.argv.slice(2)
+});

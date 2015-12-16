@@ -1,7 +1,7 @@
 {
-  "name": "<%= name %>",
+  "name": "__name__",
   "version": "0.0.0",
-  "description": "Description of <%= name %>",
+  "description": "Description of __name__",
   "scripts": {
     "build": "react build",
     "start": "react server",

@@ -14,6 +14,9 @@ module.exports = {
             for(let index in args) {
                 let prop = args[index];
                 let parts = prop.split(':');
+                if(parts.length != 2) {
+                    throw new Error(`Prop ${prop} is formatted incorrectly`);
+                }
                 propTypes += `\n    ${parts[0]}: ${this.reactPropTypeFrom(parts[1])},`;
                 defaultProps += `\n        ${parts[0]}: ${this.reactDefaultPropFrom(parts[1])},`;
             }

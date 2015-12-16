@@ -4,7 +4,7 @@ class __name__ extends React.Component {
     __defaultprops__
     render() {
         return (
-
+            <div/>
         );
     }
 }

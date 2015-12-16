@@ -1,6 +1,7 @@
 import React from 'react';
 
 class __name__ extends React.Component {
+    __defaultprops__
     render() {
         return (
 
@@ -8,4 +9,5 @@ class __name__ extends React.Component {
     }
 }
 
+__proptypes__
 export default __name__;

@@ -27,17 +27,16 @@
   "dependencies": {
     "chalk": "^1.1.1",
     "exit": "^0.1.2",
+    "express": "^4.13.3",
     "glob": "^6.0.1",
     "lodash.pluck": "^3.1.2",
+    "lodash.startcase": "^3.1.0",
     "lodash.union": "^3.1.0",
     "lodash.uniq": "^3.2.2",
     "nopt": "^3.0.6",
     "resolve": "^1.1.6",
     "rsvp": "^3.1.0",
-    "string": "^3.3.1"
-  },
-  "devDependencies": {
-    "express": "^4.13.3",
+    "string": "^3.3.1",
     "walk-sync": "^0.2.6"
   }
 }

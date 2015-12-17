@@ -1,7 +1,7 @@
 {
-  "name": "__name__",
+  "name": "cli-test-app",
   "version": "0.0.0",
-  "description": "Description of __name__",
+  "description": "Description of cli-test-app",
   "scripts": {
     "build": "react build",
     "start": "react server",
@@ -9,7 +9,11 @@
   },
   "author": "",
   "license": "MIT",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
   "devDependencies": {
-    "react": "^0.14.3"
+    "react-cli": "file:///Users/justinniessner/projects/react-cli"
   }
 }

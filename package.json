@@ -40,19 +40,23 @@
     "exists-sync": "0.0.3",
     "exit": "^0.1.2",
     "express": "^4.13.3",
+    "express-livereload": "0.0.24",
     "findup": "^0.1.5",
     "glob": "^6.0.1",
+    "livereload": "^0.4.0",
     "lodash.merge": "^3.3.2",
     "lodash.omit": "^3.1.0",
     "lodash.pluck": "^3.1.2",
     "lodash.startcase": "^3.1.0",
     "lodash.union": "^3.1.0",
     "lodash.uniq": "^3.2.2",
+    "ncp": "^2.0.0",
     "node-modules-path": "^1.0.1",
     "nopt": "^3.0.6",
     "resolve": "^1.1.6",
     "rsvp": "^3.1.0",
     "string": "^3.3.1",
-    "walk-sync": "^0.2.6"
+    "walk-sync": "^0.2.6",
+    "watch": "^0.16.0"
   }
 }

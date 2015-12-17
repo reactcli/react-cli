@@ -1,5 +1,5 @@
 {
-  "name": "cli-test-app",
+  "name": "__name__",
   "version": "0.0.0",
   "description": "Description of cli-test-app",
   "scripts": {
@@ -14,6 +14,6 @@
     "react-dom": "^0.14.3"
   },
   "devDependencies": {
-    "react-cli": "file:///Users/justinniessner/projects/react-cli"
+    "react-cli": "https://github.com/CrshOverride/react-cli.git"
   }
 }

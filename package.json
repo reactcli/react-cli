@@ -36,6 +36,8 @@
     "broccoli-source": "^1.1.0",
     "broccoli-source-map": "^0.2.3",
     "chalk": "^1.1.1",
+    "copy-dereference": "^1.0.0",
+    "exists-sync": "0.0.3",
     "exit": "^0.1.2",
     "express": "^4.13.3",
     "findup": "^0.1.5",

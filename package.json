@@ -36,6 +36,7 @@
     "broccoli-source": "^1.1.0",
     "broccoli-source-map": "^0.2.3",
     "chalk": "^1.1.1",
+    "chokidar": "^1.4.1",
     "copy-dereference": "^1.0.0",
     "exists-sync": "0.0.3",
     "exit": "^0.1.2",
@@ -58,6 +59,5 @@
     "rsvp": "^3.1.0",
     "string": "^3.3.1",
     "walk-sync": "^0.2.6",
-    "watch": "^0.16.0"
   }
 }

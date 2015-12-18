@@ -33,6 +33,7 @@
     "broccoli-fast-browserify": "^0.2.10",
     "broccoli-funnel": "^1.0.1",
     "broccoli-merge-trees": "^1.1.0",
+    "broccoli-sass-source-maps": "^1.5.1",
     "broccoli-source": "^1.1.0",
     "broccoli-source-map": "^0.2.3",
     "chalk": "^1.1.1",

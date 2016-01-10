@@ -1,6 +1,6 @@
 # react-cli
 
-A Command Line Interface for React Web Applications
+A Command Line Interface for React Web Applications. Based on Ember CLI (https://github.com/ember-cli/ember-cli).
 
 ## Usage
 
@@ -53,4 +53,3 @@ There's nothing complicated yet. Just clone the repo, `npm install && npm link`,
   - [ ] ES5 vs. ES6 generation
   - [ ] Server port
   - [ ] Project structure (flat vs. pods-ish)?
-  

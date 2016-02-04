@@ -1,6 +1,6 @@
 'use strict'
 
 module.exports = {
-    description: "Here's a blueprint",
-    filesToRename: {'_gitignore': '.gitignore'}
+  description: "Here's a blueprint",
+  filesToRename: {'_gitignore': '.gitignore'}
 }

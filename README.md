@@ -41,7 +41,7 @@ There's nothing complicated yet. Just clone the repo, `npm install && npm link`,
 ### Todos
 
 - [ ] `react test` support.
-  - [ ] Test generation for components
+  - [x] Test generation for components
   - [ ] Test execution
 - [ ] `addon` support
 - [ ] Clean up the output

@@ -40,9 +40,9 @@ There's nothing complicated yet. Just clone the repo, `npm install && npm link`,
 
 ### Todos
 
-- [ ] `react test` support.
+- [x] `react test` support.
   - [x] Test generation for components
-  - [ ] Test execution
+  - [x] Test execution
 - [ ] `addon` support
 - [ ] Clean up the output
  - [ ] Update, rather than stack, output per task

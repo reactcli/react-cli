@@ -43,7 +43,7 @@ There's nothing complicated yet. Just clone the repo, `npm install && npm link`,
 - [x] `react test` support.
   - [x] Test generation for components
   - [x] Test execution
-  - [ ] Support for testing in the browser
+  - [x] Support for testing in the browser
 - [ ] `addon` support
 - [ ] Clean up the output
  - [ ] Update, rather than stack, output per task

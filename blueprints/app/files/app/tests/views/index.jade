@@ -1,0 +1,24 @@
+html
+  head
+    title React CLI Tests
+    link(rel='stylesheet', href='mocha/mocha.css')
+  body
+    div(id='mocha')
+    script(type='text/javascript', src='https://cdn.rawgit.com/jquery/jquery/2.1.4/dist/jquery.min.js')
+    script(type='text/javascript', src='/mocha/mocha.js')
+    script(type='text/javascript', src='/chai/chai.js')
+    script(type='text/javascript')
+      mocha.setup('bdd')
+    script(type='text/javascript', src='/scripts/vendor.js')
+    script(type='text/javascript', src='/scripts/test.js')
+    script(type='text/javascript')
+      mocha.run()
+    script(type='text/javascript')
+      document.write(
+        '<script src="http://' +
+        (location.host || 'localhost').split(':')[0] +
+        ':35729/livereload.js"></' + 'script>'
+      );
+    script(type='text/javascript')
+      window.onerror = undefined;
+

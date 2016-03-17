@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CrshOverride/react-cli.git"
+    "url": "git+https://github.com/reactcli/react-cli.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Justin Niessner",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CrshOverride/react-cli/issues"
+    "url": "https://github.com/reactcli/react-cli/issues"
   },
-  "homepage": "https://github.com/CrshOverride/react-cli#readme",
+  "homepage": "https://github.com/reactcli/react-cli#readme",
   "dependencies": {
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",

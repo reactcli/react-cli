@@ -1,5 +1,5 @@
 {
-  "name": "react-cli",
+  "name": "@crshoverride/react-cli",
   "version": "0.1.0",
   "description": "A Command Line Interface for working with React Applications",
   "main": "index.js",

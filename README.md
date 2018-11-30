@@ -1,5 +1,5 @@
 ```
-THIS PROJECT IS OUT OF DATE. [create-react-app](https://github.com/facebook/create-react-app) IS THE WAY TO GO.
+THIS PROJECT IS OUT OF DATE. <a href="https://github.com/facebook/create-react-app">create-react-app</a> IS THE WAY TO GO.
 ```
 
 # react-cli

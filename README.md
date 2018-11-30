@@ -1,3 +1,5 @@
+## *THIS PROJECT IS OUT OF DATE. [create-react-app](https://github.com/facebook/create-react-app) IS THE WAY TO GO.*
+
 # react-cli
 
 A Command Line Interface for React Web Applications. Based on Ember CLI (https://github.com/ember-cli/ember-cli).
